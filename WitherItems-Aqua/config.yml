@@ -1,0 +1,73 @@
+# Ку-ку с вами Riku. Конфиг плагина WitherItems :)
+# Спасибо что используете мои плагины, для меня, как для начинающего кодера это очень важно!
+# Контакты:
+# VK: https://vk.com/bronyplayofficial
+
+# {Item}: // Предмет
+#   Enchant: 1 // Зачарование и уровень зачарования предмета.
+#   Price: 1000 // Цена предмета в /wi shop
+# !!! ВАЖНО !!! !!! НЕЛЬЗЯ ДОБАВИТЬ ИЛИ УБРАТЬ ЗАЧАРОВАНИЕ, МОЖНО ТОЛЬКО ОТРЕДАКТИРОВАТЬ УРОВЕНЬ !!!
+
+Helmet:
+  Protection: 1
+  Thorns: 1
+  Durability: 1
+  WaterWorker: 1
+  Price: 1000
+  
+Chestplate:
+  Protection: 1
+  Thorns: 1
+  Durability: 1
+  FireProtect: 1
+  Price: 1000
+  
+Leggings:
+  Protection: 1
+  Thorns: 1
+  Durability: 1
+  ExplosionProtect: 1
+  Price: 1000
+  
+Boots:
+  Protection: 1
+  Thorns: 1
+  Durability: 1
+  DepthStrider: 1
+  Price: 1000
+  
+Sword:
+  FireAspect: 1
+  Sharpness: 1
+  Looting: 1
+  Durability: 1
+  Price: 1000
+  
+Bow:
+  Infinity: 1
+  Power: 1
+  Fire: 1
+  Durability: 1
+  Price: 1000
+  
+Pickaxe:
+  Efficiency: 1
+  Luck: 1
+  Durability: 1
+  Price: 1000
+  
+Axe:
+  Efficiency: 1
+  Luck: 1
+  Durability: 1
+  Price: 1000
+
+Shovel:
+  Efficiency: 1
+  Luck: 1
+  Durability: 1
+  Price: 1000
+
+Hoe:
+  Durability: 1
+  Price: 1000

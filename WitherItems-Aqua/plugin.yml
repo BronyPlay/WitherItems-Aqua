@@ -1,0 +1,20 @@
+name: WitherItems
+main: riku.di.Main
+version: 3.0
+author: Riku
+depend: [Vault]
+
+commands:
+    witheritems:
+        aliases: [wi]
+        
+permissions:
+    witheritems.help:
+        default: op
+        description: Grants access to WitherItems help
+    witheritems.give:
+        default: op
+        description: Grants access to give all WitherItems items
+    witheritems.shop:
+        default: op
+        description: Grants access to WitherItems shops
